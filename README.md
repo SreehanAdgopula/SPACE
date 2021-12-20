@@ -1,6 +1,5 @@
 <html>
 <head>
-<title> SPACE </title>
 </head>
 <body text="white">
 <h1> <center> <font face="ravie"> Space is where everything lies. </font> </center> </h1>
